@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in the Acumes team at Inria Sophia-Antipolis. My research focuses on numerical methods for PDEs and I investigate the interaction between geometry and numerical simulation in fluid dynamic problems. 
+I am a PhD candidate in the Acumes team at Inria Sophia-Antipolis. My research focuses on numerical methods for PDEs with an emphasis on the interaction between geometry and simulation in fluid dynamic problems. 

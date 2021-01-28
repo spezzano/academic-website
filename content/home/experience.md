@@ -26,9 +26,11 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  Subject: Isogeometric Discontinuous Galerkin method with moving interfaces
+  Development of a Discontinuous Galerkin solver for compressible flows with moving boundaries, using 
+  a high-order geometry representation derived from Computer Aided Design. The proposed methodology is 
+  implemented in the open source platform [Igloo](https://gitlab.inria.fr/igloo/igloo/-/wikis/home).
   
-  Advisor: R&eacute;gis Duvigneau
+  Supervisor: [R&eacute;gis Duvigneau](https://www-sop.inria.fr/members/Regis.Duvigneau/)
   """
 
 [[experience]]
@@ -40,8 +42,8 @@ date_format = "Jan 2006"
   date_end = "2018-09-30"
   description = """
 
-  Study of an immersed boundary model for high Reynolds flows and application to aeroelastic
-  simulations of wind turbine blades.
+  Development and validation of an immersed boundary solver for turbulent flows on parallel octree 
+  grids. Application to aeroelastic simulations of wind turbine blades.
   """
   
  [[experience]]
@@ -55,7 +57,7 @@ date_format = "Jan 2006"
   
   Subject: Aeroelastic modelling of a wind turbine blade
   
-  Advisor: Angelo Iollo
+  Supervisor: [Angelo Iollo](https://www.math.u-bordeaux.fr/~aiollo/Home.html)
   """
 
 +++

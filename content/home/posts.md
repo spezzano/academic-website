@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Video Gallery"
-subtitle = "A selection of nice simulations carried out during my PhD!"
+subtitle = "A selection of simulations carried out during my PhD"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
