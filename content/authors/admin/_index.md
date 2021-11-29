@@ -31,7 +31,7 @@ interests:
 education:
   courses:
   - course: PhD in Applied Mathematics
-    institution: Université Côte d'Azur/Inria 
+    institution: Université Côte d'Azur - Inria 
     year: 2021
   - course: MSc in Aerospace Engineering
     institution: Politecnico di Torino

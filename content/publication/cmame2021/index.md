@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A NURBS-based Discontinuous Galerkin method for conservation laws with high-order moving meshes"
+title: "A fully-conservative sliding grid algorithm for compressible flows using an Isogeometric Discontinuous Galerkin scheme"
 authors: [S. Pezzano, R. Duvigneau]
 date: "2021"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-09-01T17:53:37+02:00
+publishDate: 2021-11-29T17:53:37+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2020-09-01T17:53:37+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Published, Journal of Computational Physics"
+publication: "Submitted, Computer Methods in Applied Mechanics and Engineering"
 publication_short: ""
 
 abstract: ""
