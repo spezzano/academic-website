@@ -10,26 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Applied Mathematics
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Inria Sophia-Antipolis
-  url: "https://www.inria.fr/fr/centre-inria-sophia-antipolis-mediterranee"
-- name: Acumes team
-  url: "https://team.inria.fr/acumes/" 
+- name: Cerfacs
+  url: "https://cerfacs.fr"
+- name: CFD team 
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - High-order numerical methods for PDEs
-- Computational Fluid Dynamics
-- Mesh Generation, Refinement and Deformation
 - Isogeometric Analysis
+- Mesh Generation, Refinement and Deformation
+- Computational Fluid Dynamics
+- Simulation of turbulent flows
 
 education:
   courses:
+  - course: PhD in Applied Mathematics
+    institution: Universit&eacute; C&ocirc;te d'Azur/Inria 
+    year: 2021
   - course: MSc in Aerospace Engineering
     institution: Politecnico di Torino
     year: 2018
@@ -70,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in the Acumes team at Inria Sophia-Antipolis. My research focuses on numerical methods for PDEs with an emphasis on the interaction between geometry and simulation in fluid dynamic problems. 
+My name is Stefano and I am a postdoctoral researcher at Cerfacs in Toulouse. My research focuses on advanced numerical methods for fluid mechanics for aerospace applications.  

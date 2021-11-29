@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Sophia-Antipolis, France"
   date_start = "2018-10-01"
-  date_end = ""
+  date_end = "2021-09-30"
   description = """
   
   Development of a Discontinuous Galerkin solver for compressible flows with moving boundaries, using 
