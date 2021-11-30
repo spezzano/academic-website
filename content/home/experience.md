@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Postdoctoral researcher"
+  company = "Cerfacs"
+  company_url = ""
+  location = "Toulouse, France"
+  date_start = "2021-10-01"
+  date_end = ""
+  description = """
+  
+  Simulation of turbulent flows using high-order Discontinuous Galerkin schemes in the context of the
+  [Nextsim](https://nextsimproject.eu) project.
+  """
+
+[[experience]]
   title = "PhD Fellow"
   company = "Acumes team, Inria"
   company_url = ""
