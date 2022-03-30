@@ -26,7 +26,7 @@ interests:
 - Isogeometric Analysis
 - Mesh Generation, Refinement and Deformation
 - Computational Fluid Dynamics
-- Simulation of turbulent flows
+- Large Eddy Simulation
 
 education:
   courses:
