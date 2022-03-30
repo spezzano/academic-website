@@ -26,8 +26,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
-  Simulation of turbulent flows using high-order Discontinuous Galerkin schemes in the context of the
-  [Nextsim](https://nextsimproject.eu) project.
+  Scale resolved simulation of turbulent flows using high-order Discontinuous Galerkin schemes in the context of the
+  [Nextsim](https://nextsimproject.eu) project. 
   """
 
 [[experience]]
