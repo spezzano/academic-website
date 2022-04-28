@@ -16,7 +16,7 @@ publishDate: 2021-11-29T17:53:37+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted, Computer Methods in Applied Mechanics and Engineering"
+publication: "To appear, Computer Methods in Applied Mechanics and Engineering"
 publication_short: ""
 
 abstract: ""
